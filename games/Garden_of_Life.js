@@ -1,8 +1,10 @@
 /*
-@title: getting_started
-@description: "Getting Started" is a tutorial game that guides players through basic game mechanics.
-@author: leo, edits
-@tags: ['tutorial']
+@title: Garden of Life
+@description: A puzzle game that is supposed to be somewhat unnerving.
+- WASD to move
+- J to reset level
+@author: RTdQ3z
+@tags: ['Garden' 'Puzzle' 'Weird']
 @addedOn: 2022-07-26
 
 Check the tutorial in the bottom right, the run button is in the top right.
